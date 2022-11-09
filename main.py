@@ -1,2 +1,2 @@
 def some_function():
-    pass
+    print('I change the file')
