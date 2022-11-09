@@ -1,2 +1,5 @@
+import math
+
 def some_function():
-    pass
+    a = math.sin(math.pi)
+    
